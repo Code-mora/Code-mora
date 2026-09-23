@@ -17,7 +17,7 @@ Certified  : BNSP Database Administrator & Computer Operator
 Portfolio  : [https://code-mora.github.io/foliowaz/](https://code-mora.github.io/foliowaz/)
 
 ```powershell
-PS C:\Users\HP> Get-Content .\skills.json
+PS C:\Users\Ahwaz> Get-Content .\skills.json
 
 {
   "languages": ["PHP", "JavaScript", "Dart", "Java", "React.js"],
